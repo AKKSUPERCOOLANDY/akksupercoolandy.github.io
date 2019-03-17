@@ -1,0 +1,73 @@
+.header{
+	color: #5FA8D3;
+	font-size: 50px;
+}
+h1 {
+	color: tomato;
+	font-size: 80px;
+	font-family: SimSum;
+}
+#header3{
+	background-image: repeating-radial-gradient(red, darksalmon 10%, green 15%)
+}
+#header3:hover {
+	color: orange;
+	transition-duration: 0.2s;
+	transform: rotate(360deg);
+}
+
+}
+#killerwhale{
+	display:block;
+	margin:auto;
+	width: 70%;
+	border-radius:60px;
+}
+#Facebook{
+	color:black;
+	width: 50%;
+	text-align:center; 
+}
+.Oh h2{
+
+	background: linear-gradient(blue, aqua);
+}
+body{
+	background-image: linear-gradient(to right, #ff6666,  );
+}
+#title{
+	padding: 30px;
+	margin: 80px;
+	background: linear-gradient(100deg, yellow, red, orange);
+	border: 20px double;
+}
+.c1{
+	background-color: black;
+	}
+.c3{
+	background-color: white;
+	}
+.c3{
+	background-color: lightblue;
+	}
+{
+	color: dodgerblue;
+	border-style: dotted;
+	width: 180px;
+}
+.carousel-item img{
+	display:block;
+	margin:auto;
+	width: 70%;
+	border-radius:60px;
+}
+.modal-body{
+	width:57%;
+}
+	
+@media only screen and (max-width: 768px) {
+	#title {
+		font-size: 30px;
+		font-family: cursive;
+	}
+}
