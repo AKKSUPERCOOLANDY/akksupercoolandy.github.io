@@ -327,56 +327,7 @@ window.addEventListener('resize', function(event){
 });
 
 
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
 
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
-alert("Yeet");
 
 
 
